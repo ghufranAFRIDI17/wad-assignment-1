@@ -1,0 +1,12 @@
+Name: Ghufran Mahmood
+Ro No: 04072213004
+Assignment Report
+------------------------------------------------------------
+First of All,I download the CS website along all files(php, htm, css, imgs, pdf).
+i changed the php files into html files.
+The website was written using Bootstrap CSS frameword, a remove that link and write custom css for that.
+After that i start formating the html code, i create Grids and Flex for responsiveness and layout.
+For responsiveness, I use media Queries also.
+The image slider on home page was challenging,
+but then I figured out how to do this, actually i have used transitions and translation.
+I am further looking to improve the slider( to add next and prevoius button using css).
